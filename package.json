@@ -1,7 +1,7 @@
 {
   "name": "xpipe",
-  "version": "1.0.6",
-  "description": "Use cross-platform IPC paths in node.js.",
+  "version": "1.0.7",
+  "description": "Use cross-platform IPC paths in Node.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
