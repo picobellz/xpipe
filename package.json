@@ -11,9 +11,10 @@
     "url": "git+https://github.com/picobellz/xpipe.git"
   },
   "keywords": [
+    "cross platform",
+    "cross-platform",
     "ipc",
     "path",
-    "cross platform",
     "unix",
     "sockets",
     "windows",
